@@ -4,7 +4,7 @@ now_playing_cover = true;
 cover_right_side = true;
 
 num_of_disks = 5;
-tolerance = 0.1; //Bambulab P1S PLA = 0.1
+tolerance = 0.5; //Bambulab P1S PLA = 0.5
 
 
 //DONT CHANGE THESE
